@@ -59,6 +59,11 @@ Git<br/>
 ## ERD
   --- 
 
+  <img width="939" alt="스크린샷 2024-08-01 오후 4 10 23" src="https://github.com/user-attachments/assets/383f84f4-267e-44ce-bc4a-4a6e0369ed4a">
+
+
+  
+
 
   
   
