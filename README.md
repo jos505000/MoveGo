@@ -58,7 +58,7 @@ Git<br/>
   
 ## ERD
   --- 
-  <img width="890" alt="스크린샷 2023-12-14 오후 5 42 11" src="https://github.com/jos505000/PuppyPlay/assets/37131334/ec2d4d8e-3cd7-4208-af76-a9377116b370">
+
 
   
   
